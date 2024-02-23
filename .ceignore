@@ -1,0 +1,4 @@
+node_modules
+creds.env
+*.png
+README.md
